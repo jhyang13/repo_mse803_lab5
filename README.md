@@ -1,4 +1,4 @@
-# repo_mse803_lab3
+# repo_mse803_lab5
 
 MSE 803 
 
@@ -6,7 +6,7 @@ Name: Jiahui Yang, Mechanical Engineering
 
 Email: jyang753@wisc.edu
 
-Jiahui's homework for Lab3
+Jiahui's homework for Lab5
 
 Let me know if you can have access to my homework or not. ╰(●’◡’●)╮
 
