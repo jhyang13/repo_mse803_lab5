@@ -10,12 +10,16 @@ Jiahui's homework for Lab5
 
 Let me know if you can have access to my homework or not. ╰(●’◡’●)╮
 
-### Features Inorganic v1.3.ipynb
+### Mod5LabA_Keras FullConNN ASL Classification v4.0.ipynb
 
-### Features Organic v1.3.ipynb
+### Mod5LabB_Keras ConvNN ASL Classification v2.0.ipynb
 
-are my lab3 Jupyter notebook files
+are my lab5 Jupyter notebook files
 
-### resources
+### images
 
-is the output from both *.ipynb files
+is the plots and figures for both *.ipynb files
+
+### data/asl_data
+
+is the dataset for both *.ipynb files
